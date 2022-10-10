@@ -1,0 +1,21 @@
+.chat{
+    
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    background-color: #F0F5F9;
+}
+.chatwrapper{
+    width: 70vw;
+    height: 85vh;
+    background-color:  #C9D6DF;
+    border-radius: 8px;
+    overflow: auto;
+    display: grid;
+    grid-template-columns: 25% 75%;
+}

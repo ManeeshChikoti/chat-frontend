@@ -1,0 +1,15 @@
+.login{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: #F0F5F9;
+}
+.loginwrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 60px;
+    border-radius: 10px;
+    background-color: #C9D6DF;
+}
